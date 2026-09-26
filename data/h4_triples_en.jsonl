@@ -1,0 +1,192 @@
+{"item_id": 0, "kind": "comp", "type": "T1_neg", "anchor": "The store is open right now.", "positive": "The shop is doing business at the moment.", "negative": "The store is not open right now."}
+{"item_id": 0, "kind": "comp", "type": "T2_ant", "anchor": "The store is open right now.", "positive": "The shop is doing business at the moment.", "negative": "The store is closed right now."}
+{"item_id": 0, "kind": "comp", "type": "T3_negpara", "anchor": "The store is open right now.", "positive": "The store is not closed right now.", "negative": "The store is closed right now."}
+{"item_id": 0, "kind": "comp", "type": "T4_neganchor", "anchor": "The store is not open right now.", "positive": "The store is closed right now.", "negative": "The store is open right now."}
+{"item_id": 1, "kind": "comp", "type": "T1_neg", "anchor": "The patient is alive.", "positive": "The patient survived and is still living.", "negative": "The patient is not alive."}
+{"item_id": 1, "kind": "comp", "type": "T2_ant", "anchor": "The patient is alive.", "positive": "The patient survived and is still living.", "negative": "The patient is dead."}
+{"item_id": 1, "kind": "comp", "type": "T3_negpara", "anchor": "The patient is alive.", "positive": "The patient is not dead.", "negative": "The patient is dead."}
+{"item_id": 1, "kind": "comp", "type": "T4_neganchor", "anchor": "The patient is not alive.", "positive": "The patient is dead.", "negative": "The patient is alive."}
+{"item_id": 2, "kind": "comp", "type": "T1_neg", "anchor": "The rumor is true.", "positive": "The gossip turned out to be accurate.", "negative": "The rumor is not true."}
+{"item_id": 2, "kind": "comp", "type": "T2_ant", "anchor": "The rumor is true.", "positive": "The gossip turned out to be accurate.", "negative": "The rumor is false."}
+{"item_id": 2, "kind": "comp", "type": "T3_negpara", "anchor": "The rumor is true.", "positive": "The rumor is not false.", "negative": "The rumor is false."}
+{"item_id": 2, "kind": "comp", "type": "T4_neganchor", "anchor": "The rumor is not true.", "positive": "The rumor is false.", "negative": "The rumor is true."}
+{"item_id": 3, "kind": "comp", "type": "T1_neg", "anchor": "The seat is occupied.", "positive": "Someone is sitting in that seat.", "negative": "The seat is not occupied."}
+{"item_id": 3, "kind": "comp", "type": "T2_ant", "anchor": "The seat is occupied.", "positive": "Someone is sitting in that seat.", "negative": "The seat is vacant."}
+{"item_id": 3, "kind": "comp", "type": "T3_negpara", "anchor": "The seat is occupied.", "positive": "The seat is not vacant.", "negative": "The seat is vacant."}
+{"item_id": 3, "kind": "comp", "type": "T4_neganchor", "anchor": "The seat is not occupied.", "positive": "The seat is vacant.", "negative": "The seat is occupied."}
+{"item_id": 4, "kind": "comp", "type": "T1_neg", "anchor": "The light in the hall was on.", "positive": "The lamp in the corridor was switched on.", "negative": "The light in the hall was not on."}
+{"item_id": 4, "kind": "comp", "type": "T2_ant", "anchor": "The light in the hall was on.", "positive": "The lamp in the corridor was switched on.", "negative": "The light in the hall was off."}
+{"item_id": 4, "kind": "comp", "type": "T3_negpara", "anchor": "The light in the hall was on.", "positive": "The light in the hall was not off.", "negative": "The light in the hall was off."}
+{"item_id": 4, "kind": "comp", "type": "T4_neganchor", "anchor": "The light in the hall was not on.", "positive": "The light in the hall was off.", "negative": "The light in the hall was on."}
+{"item_id": 5, "kind": "comp", "type": "T1_neg", "anchor": "The student was present at the lecture.", "positive": "The student attended the lecture.", "negative": "The student was not present at the lecture."}
+{"item_id": 5, "kind": "comp", "type": "T2_ant", "anchor": "The student was present at the lecture.", "positive": "The student attended the lecture.", "negative": "The student was absent from the lecture."}
+{"item_id": 5, "kind": "comp", "type": "T3_negpara", "anchor": "The student was present at the lecture.", "positive": "The student was not absent from the lecture.", "negative": "The student was absent from the lecture."}
+{"item_id": 5, "kind": "comp", "type": "T4_neganchor", "anchor": "The student was not present at the lecture.", "positive": "The student was absent from the lecture.", "negative": "The student was present at the lecture."}
+{"item_id": 6, "kind": "comp", "type": "T1_neg", "anchor": "The two copies are identical.", "positive": "The two copies are exactly the same.", "negative": "The two copies are not identical."}
+{"item_id": 6, "kind": "comp", "type": "T2_ant", "anchor": "The two copies are identical.", "positive": "The two copies are exactly the same.", "negative": "The two copies are different."}
+{"item_id": 6, "kind": "comp", "type": "T3_negpara", "anchor": "The two copies are identical.", "positive": "The two copies are not different.", "negative": "The two copies are different."}
+{"item_id": 6, "kind": "comp", "type": "T4_neganchor", "anchor": "The two copies are not identical.", "positive": "The two copies are different.", "negative": "The two copies are identical."}
+{"item_id": 7, "kind": "comp", "type": "T1_neg", "anchor": "The baby is asleep.", "positive": "The infant is sleeping.", "negative": "The baby is not asleep."}
+{"item_id": 7, "kind": "comp", "type": "T2_ant", "anchor": "The baby is asleep.", "positive": "The infant is sleeping.", "negative": "The baby is awake."}
+{"item_id": 7, "kind": "comp", "type": "T3_negpara", "anchor": "The baby is asleep.", "positive": "The baby is not awake.", "negative": "The baby is awake."}
+{"item_id": 7, "kind": "comp", "type": "T4_neganchor", "anchor": "The baby is not asleep.", "positive": "The baby is awake.", "negative": "The baby is asleep."}
+{"item_id": 8, "kind": "comp", "type": "T1_neg", "anchor": "The answer is correct.", "positive": "The answer is right.", "negative": "The answer is not correct."}
+{"item_id": 8, "kind": "comp", "type": "T2_ant", "anchor": "The answer is correct.", "positive": "The answer is right.", "negative": "The answer is wrong."}
+{"item_id": 8, "kind": "comp", "type": "T3_negpara", "anchor": "The answer is correct.", "positive": "The answer is not wrong.", "negative": "The answer is wrong."}
+{"item_id": 8, "kind": "comp", "type": "T4_neganchor", "anchor": "The answer is not correct.", "positive": "The answer is wrong.", "negative": "The answer is correct."}
+{"item_id": 9, "kind": "comp", "type": "T1_neg", "anchor": "The prisoner is guilty.", "positive": "The prisoner committed the crime.", "negative": "The prisoner is not guilty."}
+{"item_id": 9, "kind": "comp", "type": "T2_ant", "anchor": "The prisoner is guilty.", "positive": "The prisoner committed the crime.", "negative": "The prisoner is innocent."}
+{"item_id": 9, "kind": "comp", "type": "T3_negpara", "anchor": "The prisoner is guilty.", "positive": "The prisoner is not innocent.", "negative": "The prisoner is innocent."}
+{"item_id": 9, "kind": "comp", "type": "T4_neganchor", "anchor": "The prisoner is not guilty.", "positive": "The prisoner is innocent.", "negative": "The prisoner is guilty."}
+{"item_id": 10, "kind": "comp", "type": "T1_neg", "anchor": "The machine is running.", "positive": "The machine is operating.", "negative": "The machine is not running."}
+{"item_id": 10, "kind": "comp", "type": "T2_ant", "anchor": "The machine is running.", "positive": "The machine is operating.", "negative": "The machine is stopped."}
+{"item_id": 10, "kind": "comp", "type": "T3_negpara", "anchor": "The machine is running.", "positive": "The machine is not stopped.", "negative": "The machine is stopped."}
+{"item_id": 10, "kind": "comp", "type": "T4_neganchor", "anchor": "The machine is not running.", "positive": "The machine is stopped.", "negative": "The machine is running."}
+{"item_id": 11, "kind": "comp", "type": "T1_neg", "anchor": "The parking lot is private.", "positive": "The car park belongs to a private owner.", "negative": "The parking lot is not private."}
+{"item_id": 11, "kind": "comp", "type": "T2_ant", "anchor": "The parking lot is private.", "positive": "The car park belongs to a private owner.", "negative": "The parking lot is public."}
+{"item_id": 11, "kind": "comp", "type": "T3_negpara", "anchor": "The parking lot is private.", "positive": "The parking lot is not public.", "negative": "The parking lot is public."}
+{"item_id": 11, "kind": "comp", "type": "T4_neganchor", "anchor": "The parking lot is not private.", "positive": "The parking lot is public.", "negative": "The parking lot is private."}
+{"item_id": 12, "kind": "comp", "type": "T1_neg", "anchor": "The test result was positive.", "positive": "The test came back positive.", "negative": "The test result was not positive."}
+{"item_id": 12, "kind": "comp", "type": "T2_ant", "anchor": "The test result was positive.", "positive": "The test came back positive.", "negative": "The test result was negative."}
+{"item_id": 12, "kind": "comp", "type": "T3_negpara", "anchor": "The test result was positive.", "positive": "The test result was not negative.", "negative": "The test result was negative."}
+{"item_id": 12, "kind": "comp", "type": "T4_neganchor", "anchor": "The test result was not positive.", "positive": "The test result was negative.", "negative": "The test result was positive."}
+{"item_id": 13, "kind": "comp", "type": "T1_neg", "anchor": "The number is even.", "positive": "The number is divisible by two.", "negative": "The number is not even."}
+{"item_id": 13, "kind": "comp", "type": "T2_ant", "anchor": "The number is even.", "positive": "The number is divisible by two.", "negative": "The number is odd."}
+{"item_id": 13, "kind": "comp", "type": "T3_negpara", "anchor": "The number is even.", "positive": "The number is not odd.", "negative": "The number is odd."}
+{"item_id": 13, "kind": "comp", "type": "T4_neganchor", "anchor": "The number is not even.", "positive": "The number is odd.", "negative": "The number is even."}
+{"item_id": 14, "kind": "comp", "type": "T1_neg", "anchor": "The window was shut.", "positive": "The window was closed.", "negative": "The window was not shut."}
+{"item_id": 14, "kind": "comp", "type": "T2_ant", "anchor": "The window was shut.", "positive": "The window was closed.", "negative": "The window was open."}
+{"item_id": 14, "kind": "comp", "type": "T3_negpara", "anchor": "The window was shut.", "positive": "The window was not open.", "negative": "The window was open."}
+{"item_id": 14, "kind": "comp", "type": "T4_neganchor", "anchor": "The window was not shut.", "positive": "The window was open.", "negative": "The window was shut."}
+{"item_id": 15, "kind": "comp", "type": "T1_neg", "anchor": "The meeting is mandatory.", "positive": "Attendance at the meeting is required.", "negative": "The meeting is not mandatory."}
+{"item_id": 15, "kind": "comp", "type": "T2_ant", "anchor": "The meeting is mandatory.", "positive": "Attendance at the meeting is required.", "negative": "The meeting is optional."}
+{"item_id": 15, "kind": "comp", "type": "T3_negpara", "anchor": "The meeting is mandatory.", "positive": "The meeting is not optional.", "negative": "The meeting is optional."}
+{"item_id": 15, "kind": "comp", "type": "T4_neganchor", "anchor": "The meeting is not mandatory.", "positive": "The meeting is optional.", "negative": "The meeting is mandatory."}
+{"item_id": 16, "kind": "comp", "type": "T1_neg", "anchor": "The ticket is valid.", "positive": "The ticket can still be used.", "negative": "The ticket is not valid."}
+{"item_id": 16, "kind": "comp", "type": "T2_ant", "anchor": "The ticket is valid.", "positive": "The ticket can still be used.", "negative": "The ticket is expired."}
+{"item_id": 16, "kind": "comp", "type": "T3_negpara", "anchor": "The ticket is valid.", "positive": "The ticket is not expired.", "negative": "The ticket is expired."}
+{"item_id": 16, "kind": "comp", "type": "T4_neganchor", "anchor": "The ticket is not valid.", "positive": "The ticket is expired.", "negative": "The ticket is valid."}
+{"item_id": 17, "kind": "comp", "type": "T1_neg", "anchor": "The flight is domestic.", "positive": "The flight stays within the country.", "negative": "The flight is not domestic."}
+{"item_id": 17, "kind": "comp", "type": "T2_ant", "anchor": "The flight is domestic.", "positive": "The flight stays within the country.", "negative": "The flight is international."}
+{"item_id": 17, "kind": "comp", "type": "T3_negpara", "anchor": "The flight is domestic.", "positive": "The flight is not international.", "negative": "The flight is international."}
+{"item_id": 17, "kind": "comp", "type": "T4_neganchor", "anchor": "The flight is not domestic.", "positive": "The flight is international.", "negative": "The flight is domestic."}
+{"item_id": 18, "kind": "comp", "type": "T1_neg", "anchor": "The file is visible.", "positive": "Anyone can see the file.", "negative": "The file is not visible."}
+{"item_id": 18, "kind": "comp", "type": "T2_ant", "anchor": "The file is visible.", "positive": "Anyone can see the file.", "negative": "The file is hidden."}
+{"item_id": 18, "kind": "comp", "type": "T3_negpara", "anchor": "The file is visible.", "positive": "The file is not hidden.", "negative": "The file is hidden."}
+{"item_id": 18, "kind": "comp", "type": "T4_neganchor", "anchor": "The file is not visible.", "positive": "The file is hidden.", "negative": "The file is visible."}
+{"item_id": 19, "kind": "comp", "type": "T1_neg", "anchor": "The candidate passed the exam.", "positive": "The candidate got a passing score on the exam.", "negative": "The candidate did not pass the exam."}
+{"item_id": 19, "kind": "comp", "type": "T2_ant", "anchor": "The candidate passed the exam.", "positive": "The candidate got a passing score on the exam.", "negative": "The candidate failed the exam."}
+{"item_id": 19, "kind": "comp", "type": "T3_negpara", "anchor": "The candidate passed the exam.", "positive": "The candidate did not fail the exam.", "negative": "The candidate failed the exam."}
+{"item_id": 19, "kind": "comp", "type": "T4_neganchor", "anchor": "The candidate did not pass the exam.", "positive": "The candidate failed the exam.", "negative": "The candidate passed the exam."}
+{"item_id": 20, "kind": "comp", "type": "T1_neg", "anchor": "The service is free.", "positive": "The service is complimentary.", "negative": "The service is not free."}
+{"item_id": 20, "kind": "comp", "type": "T2_ant", "anchor": "The service is free.", "positive": "The service is complimentary.", "negative": "The service is paid."}
+{"item_id": 20, "kind": "comp", "type": "T3_negpara", "anchor": "The service is free.", "positive": "The service is not paid.", "negative": "The service is paid."}
+{"item_id": 20, "kind": "comp", "type": "T4_neganchor", "anchor": "The service is not free.", "positive": "The service is paid.", "negative": "The service is free."}
+{"item_id": 21, "kind": "comp", "type": "T1_neg", "anchor": "The concert is indoors.", "positive": "The concert takes place inside the building.", "negative": "The concert is not indoors."}
+{"item_id": 21, "kind": "comp", "type": "T2_ant", "anchor": "The concert is indoors.", "positive": "The concert takes place inside the building.", "negative": "The concert is outdoors."}
+{"item_id": 21, "kind": "comp", "type": "T3_negpara", "anchor": "The concert is indoors.", "positive": "The concert is not outdoors.", "negative": "The concert is outdoors."}
+{"item_id": 21, "kind": "comp", "type": "T4_neganchor", "anchor": "The concert is not indoors.", "positive": "The concert is outdoors.", "negative": "The concert is indoors."}
+{"item_id": 22, "kind": "comp", "type": "T1_neg", "anchor": "The item is in stock.", "positive": "The item is available in the warehouse.", "negative": "The item is not in stock."}
+{"item_id": 22, "kind": "comp", "type": "T2_ant", "anchor": "The item is in stock.", "positive": "The item is available in the warehouse.", "negative": "The item is sold out."}
+{"item_id": 22, "kind": "comp", "type": "T3_negpara", "anchor": "The item is in stock.", "positive": "The item is not sold out.", "negative": "The item is sold out."}
+{"item_id": 22, "kind": "comp", "type": "T4_neganchor", "anchor": "The item is not in stock.", "positive": "The item is sold out.", "negative": "The item is in stock."}
+{"item_id": 23, "kind": "comp", "type": "T1_neg", "anchor": "The mission succeeded.", "positive": "The mission achieved its goal.", "negative": "The mission did not succeed."}
+{"item_id": 23, "kind": "comp", "type": "T2_ant", "anchor": "The mission succeeded.", "positive": "The mission achieved its goal.", "negative": "The mission failed."}
+{"item_id": 23, "kind": "comp", "type": "T3_negpara", "anchor": "The mission succeeded.", "positive": "The mission did not fail.", "negative": "The mission failed."}
+{"item_id": 23, "kind": "comp", "type": "T4_neganchor", "anchor": "The mission did not succeed.", "positive": "The mission failed.", "negative": "The mission succeeded."}
+{"item_id": 24, "kind": "comp", "type": "T1_neg", "anchor": "The coin landed on heads.", "positive": "The coin came up heads.", "negative": "The coin did not land on heads."}
+{"item_id": 24, "kind": "comp", "type": "T2_ant", "anchor": "The coin landed on heads.", "positive": "The coin came up heads.", "negative": "The coin landed on tails."}
+{"item_id": 24, "kind": "comp", "type": "T3_negpara", "anchor": "The coin landed on heads.", "positive": "The coin did not land on tails.", "negative": "The coin landed on tails."}
+{"item_id": 24, "kind": "comp", "type": "T4_neganchor", "anchor": "The coin did not land on heads.", "positive": "The coin landed on tails.", "negative": "The coin landed on heads."}
+{"item_id": 25, "kind": "comp", "type": "T1_neg", "anchor": "The switch is up.", "positive": "The switch is in the upper position.", "negative": "The switch is not up."}
+{"item_id": 25, "kind": "comp", "type": "T2_ant", "anchor": "The switch is up.", "positive": "The switch is in the upper position.", "negative": "The switch is down."}
+{"item_id": 25, "kind": "comp", "type": "T3_negpara", "anchor": "The switch is up.", "positive": "The switch is not down.", "negative": "The switch is down."}
+{"item_id": 25, "kind": "comp", "type": "T4_neganchor", "anchor": "The switch is not up.", "positive": "The switch is down.", "negative": "The switch is up."}
+{"item_id": 26, "kind": "comp", "type": "T1_neg", "anchor": "The sample was contaminated.", "positive": "The sample had been polluted.", "negative": "The sample was not contaminated."}
+{"item_id": 26, "kind": "comp", "type": "T2_ant", "anchor": "The sample was contaminated.", "positive": "The sample had been polluted.", "negative": "The sample was clean."}
+{"item_id": 26, "kind": "comp", "type": "T3_negpara", "anchor": "The sample was contaminated.", "positive": "The sample was not clean.", "negative": "The sample was clean."}
+{"item_id": 26, "kind": "comp", "type": "T4_neganchor", "anchor": "The sample was not contaminated.", "positive": "The sample was clean.", "negative": "The sample was contaminated."}
+{"item_id": 27, "kind": "comp", "type": "T1_neg", "anchor": "The phone line is busy.", "positive": "Someone else is using the phone line.", "negative": "The phone line is not busy."}
+{"item_id": 27, "kind": "comp", "type": "T2_ant", "anchor": "The phone line is busy.", "positive": "Someone else is using the phone line.", "negative": "The phone line is free."}
+{"item_id": 27, "kind": "comp", "type": "T3_negpara", "anchor": "The phone line is busy.", "positive": "The phone line is not free.", "negative": "The phone line is free."}
+{"item_id": 27, "kind": "comp", "type": "T4_neganchor", "anchor": "The phone line is not busy.", "positive": "The phone line is free.", "negative": "The phone line is busy."}
+{"item_id": 28, "kind": "comp", "type": "T1_neg", "anchor": "The car is new.", "positive": "The car is fresh from the factory.", "negative": "The car is not new."}
+{"item_id": 28, "kind": "comp", "type": "T2_ant", "anchor": "The car is new.", "positive": "The car is fresh from the factory.", "negative": "The car is used."}
+{"item_id": 28, "kind": "comp", "type": "T3_negpara", "anchor": "The car is new.", "positive": "The car is not used.", "negative": "The car is used."}
+{"item_id": 28, "kind": "comp", "type": "T4_neganchor", "anchor": "The car is not new.", "positive": "The car is used.", "negative": "The car is new."}
+{"item_id": 29, "kind": "comp", "type": "T1_neg", "anchor": "The painting is genuine.", "positive": "The painting is authentic.", "negative": "The painting is not genuine."}
+{"item_id": 29, "kind": "comp", "type": "T2_ant", "anchor": "The painting is genuine.", "positive": "The painting is authentic.", "negative": "The painting is fake."}
+{"item_id": 29, "kind": "comp", "type": "T3_negpara", "anchor": "The painting is genuine.", "positive": "The painting is not fake.", "negative": "The painting is fake."}
+{"item_id": 29, "kind": "comp", "type": "T4_neganchor", "anchor": "The painting is not genuine.", "positive": "The painting is fake.", "negative": "The painting is genuine."}
+{"item_id": 30, "kind": "comp", "type": "T1_neg", "anchor": "The applicant is married.", "positive": "The applicant has a spouse.", "negative": "The applicant is not married."}
+{"item_id": 30, "kind": "comp", "type": "T2_ant", "anchor": "The applicant is married.", "positive": "The applicant has a spouse.", "negative": "The applicant is single."}
+{"item_id": 30, "kind": "comp", "type": "T3_negpara", "anchor": "The applicant is married.", "positive": "The applicant is not single.", "negative": "The applicant is single."}
+{"item_id": 30, "kind": "comp", "type": "T4_neganchor", "anchor": "The applicant is not married.", "positive": "The applicant is single.", "negative": "The applicant is married."}
+{"item_id": 31, "kind": "comp", "type": "T1_neg", "anchor": "These results are final.", "positive": "These results are definitive.", "negative": "These results are not final."}
+{"item_id": 31, "kind": "comp", "type": "T2_ant", "anchor": "These results are final.", "positive": "These results are definitive.", "negative": "These results are preliminary."}
+{"item_id": 31, "kind": "comp", "type": "T3_negpara", "anchor": "These results are final.", "positive": "These results are not preliminary.", "negative": "These results are preliminary."}
+{"item_id": 31, "kind": "comp", "type": "T4_neganchor", "anchor": "These results are not final.", "positive": "These results are preliminary.", "negative": "These results are final."}
+{"item_id": 32, "kind": "grad", "type": "T1_neg", "anchor": "The soup is hot.", "positive": "The soup is steaming.", "negative": "The soup is not hot."}
+{"item_id": 32, "kind": "grad", "type": "T2_ant", "anchor": "The soup is hot.", "positive": "The soup is steaming.", "negative": "The soup is cold."}
+{"item_id": 33, "kind": "grad", "type": "T1_neg", "anchor": "The movie was exciting.", "positive": "The film was thrilling.", "negative": "The movie was not exciting."}
+{"item_id": 33, "kind": "grad", "type": "T2_ant", "anchor": "The movie was exciting.", "positive": "The film was thrilling.", "negative": "The movie was boring."}
+{"item_id": 34, "kind": "grad", "type": "T1_neg", "anchor": "The exam was easy.", "positive": "The test was simple.", "negative": "The exam was not easy."}
+{"item_id": 34, "kind": "grad", "type": "T2_ant", "anchor": "The exam was easy.", "positive": "The test was simple.", "negative": "The exam was difficult."}
+{"item_id": 35, "kind": "grad", "type": "T1_neg", "anchor": "The hostel is cheap.", "positive": "The hostel costs very little.", "negative": "The hostel is not cheap."}
+{"item_id": 35, "kind": "grad", "type": "T2_ant", "anchor": "The hostel is cheap.", "positive": "The hostel costs very little.", "negative": "The hostel is expensive."}
+{"item_id": 36, "kind": "grad", "type": "T1_neg", "anchor": "The street is quiet at night.", "positive": "The street is calm and silent at night.", "negative": "The street is not quiet at night."}
+{"item_id": 36, "kind": "grad", "type": "T2_ant", "anchor": "The street is quiet at night.", "positive": "The street is calm and silent at night.", "negative": "The street is noisy at night."}
+{"item_id": 37, "kind": "grad", "type": "T1_neg", "anchor": "The lecture was long.", "positive": "The lecture lasted for hours.", "negative": "The lecture was not long."}
+{"item_id": 37, "kind": "grad", "type": "T2_ant", "anchor": "The lecture was long.", "positive": "The lecture lasted for hours.", "negative": "The lecture was short."}
+{"item_id": 38, "kind": "grad", "type": "T1_neg", "anchor": "My neighbor is rich.", "positive": "My neighbor has a lot of money.", "negative": "My neighbor is not rich."}
+{"item_id": 38, "kind": "grad", "type": "T2_ant", "anchor": "My neighbor is rich.", "positive": "My neighbor has a lot of money.", "negative": "My neighbor is poor."}
+{"item_id": 39, "kind": "grad", "type": "T1_neg", "anchor": "The lake is deep here.", "positive": "The lake has great depth here.", "negative": "The lake is not deep here."}
+{"item_id": 39, "kind": "grad", "type": "T2_ant", "anchor": "The lake is deep here.", "positive": "The lake has great depth here.", "negative": "The lake is shallow here."}
+{"item_id": 40, "kind": "grad", "type": "T1_neg", "anchor": "The coach was strict.", "positive": "The trainer was demanding.", "negative": "The coach was not strict."}
+{"item_id": 40, "kind": "grad", "type": "T2_ant", "anchor": "The coach was strict.", "positive": "The trainer was demanding.", "negative": "The coach was lenient."}
+{"item_id": 41, "kind": "grad", "type": "T1_neg", "anchor": "The singer loves jazz.", "positive": "The vocalist adores jazz.", "negative": "The singer does not love jazz."}
+{"item_id": 41, "kind": "grad", "type": "T2_ant", "anchor": "The singer loves jazz.", "positive": "The vocalist adores jazz.", "negative": "The singer hates jazz."}
+{"item_id": 42, "kind": "grad", "type": "T1_neg", "anchor": "The firm made a profit.", "positive": "The company earned money.", "negative": "The firm did not make a profit."}
+{"item_id": 42, "kind": "grad", "type": "T2_ant", "anchor": "The firm made a profit.", "positive": "The company earned money.", "negative": "The firm made a loss."}
+{"item_id": 43, "kind": "grad", "type": "T1_neg", "anchor": "The price of gold rose yesterday.", "positive": "Gold became more expensive yesterday.", "negative": "The price of gold did not rise yesterday."}
+{"item_id": 43, "kind": "grad", "type": "T2_ant", "anchor": "The price of gold rose yesterday.", "positive": "Gold became more expensive yesterday.", "negative": "The price of gold fell yesterday."}
+{"item_id": 44, "kind": "grad", "type": "T1_neg", "anchor": "The kitchen is tidy.", "positive": "The kitchen is neat and organized.", "negative": "The kitchen is not tidy."}
+{"item_id": 44, "kind": "grad", "type": "T2_ant", "anchor": "The kitchen is tidy.", "positive": "The kitchen is neat and organized.", "negative": "The kitchen is messy."}
+{"item_id": 45, "kind": "grad", "type": "T1_neg", "anchor": "The bag is heavy.", "positive": "The bag weighs a lot.", "negative": "The bag is not heavy."}
+{"item_id": 45, "kind": "grad", "type": "T2_ant", "anchor": "The bag is heavy.", "positive": "The bag weighs a lot.", "negative": "The bag is light."}
+{"item_id": 46, "kind": "grad", "type": "T1_neg", "anchor": "The waiter was friendly.", "positive": "The server was kind and welcoming.", "negative": "The waiter was not friendly."}
+{"item_id": 46, "kind": "grad", "type": "T2_ant", "anchor": "The waiter was friendly.", "positive": "The server was kind and welcoming.", "negative": "The waiter was hostile."}
+{"item_id": 47, "kind": "grad", "type": "T1_neg", "anchor": "The tea is strong.", "positive": "The tea has a rich, intense flavor.", "negative": "The tea is not strong."}
+{"item_id": 47, "kind": "grad", "type": "T2_ant", "anchor": "The tea is strong.", "positive": "The tea has a rich, intense flavor.", "negative": "The tea is weak."}
+{"item_id": 48, "kind": "grad", "type": "T1_neg", "anchor": "The farm is far from the city.", "positive": "The farm is a long way from town.", "negative": "The farm is not far from the city."}
+{"item_id": 48, "kind": "grad", "type": "T2_ant", "anchor": "The farm is far from the city.", "positive": "The farm is a long way from town.", "negative": "The farm is near the city."}
+{"item_id": 49, "kind": "grad", "type": "T1_neg", "anchor": "The audience applauded the speech.", "positive": "The listeners clapped after the talk.", "negative": "The audience did not applaud the speech."}
+{"item_id": 49, "kind": "grad", "type": "T2_ant", "anchor": "The audience applauded the speech.", "positive": "The listeners clapped after the talk.", "negative": "The audience booed the speech."}
+{"item_id": 50, "kind": "grad", "type": "T1_neg", "anchor": "The doctor praised the nurse.", "positive": "The physician complimented the nurse.", "negative": "The doctor did not praise the nurse."}
+{"item_id": 50, "kind": "grad", "type": "T2_ant", "anchor": "The doctor praised the nurse.", "positive": "The physician complimented the nurse.", "negative": "The doctor criticized the nurse."}
+{"item_id": 51, "kind": "grad", "type": "T1_neg", "anchor": "The dog is aggressive.", "positive": "The dog tends to attack people.", "negative": "The dog is not aggressive."}
+{"item_id": 51, "kind": "grad", "type": "T2_ant", "anchor": "The dog is aggressive.", "positive": "The dog tends to attack people.", "negative": "The dog is gentle."}
+{"item_id": 52, "kind": "grad", "type": "T1_neg", "anchor": "Sales increased in March.", "positive": "Revenue grew in March.", "negative": "Sales did not increase in March."}
+{"item_id": 52, "kind": "grad", "type": "T2_ant", "anchor": "Sales increased in March.", "positive": "Revenue grew in March.", "negative": "Sales decreased in March."}
+{"item_id": 53, "kind": "grad", "type": "T1_neg", "anchor": "The knife is sharp.", "positive": "The blade cuts easily.", "negative": "The knife is not sharp."}
+{"item_id": 53, "kind": "grad", "type": "T2_ant", "anchor": "The knife is sharp.", "positive": "The blade cuts easily.", "negative": "The knife is blunt."}
+{"item_id": 54, "kind": "grad", "type": "T1_neg", "anchor": "The evening was warm.", "positive": "It was a mild, pleasant evening.", "negative": "The evening was not warm."}
+{"item_id": 54, "kind": "grad", "type": "T2_ant", "anchor": "The evening was warm.", "positive": "It was a mild, pleasant evening.", "negative": "The evening was chilly."}
+{"item_id": 55, "kind": "grad", "type": "T1_neg", "anchor": "The squad is strong this season.", "positive": "The team is powerful this season.", "negative": "The squad is not strong this season."}
+{"item_id": 55, "kind": "grad", "type": "T2_ant", "anchor": "The squad is strong this season.", "positive": "The team is powerful this season.", "negative": "The squad is weak this season."}
+{"item_id": 56, "kind": "grad", "type": "T1_neg", "anchor": "The connection is fast here.", "positive": "The internet here is quick.", "negative": "The connection is not fast here."}
+{"item_id": 56, "kind": "grad", "type": "T2_ant", "anchor": "The connection is fast here.", "positive": "The internet here is quick.", "negative": "The connection is slow here."}
+{"item_id": 57, "kind": "grad", "type": "T1_neg", "anchor": "The landscape is beautiful.", "positive": "The scenery is lovely.", "negative": "The landscape is not beautiful."}
+{"item_id": 57, "kind": "grad", "type": "T2_ant", "anchor": "The landscape is beautiful.", "positive": "The scenery is lovely.", "negative": "The landscape is ugly."}
+{"item_id": 58, "kind": "grad", "type": "T1_neg", "anchor": "Grandpa accepted the invitation.", "positive": "Grandfather agreed to come.", "negative": "Grandpa did not accept the invitation."}
+{"item_id": 58, "kind": "grad", "type": "T2_ant", "anchor": "Grandpa accepted the invitation.", "positive": "Grandfather agreed to come.", "negative": "Grandpa declined the invitation."}
+{"item_id": 59, "kind": "grad", "type": "T1_neg", "anchor": "The shirt is clean.", "positive": "The shirt has just been washed.", "negative": "The shirt is not clean."}
+{"item_id": 59, "kind": "grad", "type": "T2_ant", "anchor": "The shirt is clean.", "positive": "The shirt has just been washed.", "negative": "The shirt is dirty."}
+{"item_id": 60, "kind": "grad", "type": "T1_neg", "anchor": "The boss was calm.", "positive": "The supervisor stayed relaxed.", "negative": "The boss was not calm."}
+{"item_id": 60, "kind": "grad", "type": "T2_ant", "anchor": "The boss was calm.", "positive": "The supervisor stayed relaxed.", "negative": "The boss was furious."}
+{"item_id": 61, "kind": "grad", "type": "T1_neg", "anchor": "The path is wide.", "positive": "The trail is broad.", "negative": "The path is not wide."}
+{"item_id": 61, "kind": "grad", "type": "T2_ant", "anchor": "The path is wide.", "positive": "The trail is broad.", "negative": "The path is narrow."}
+{"item_id": 62, "kind": "grad", "type": "T1_neg", "anchor": "The plan is safe.", "positive": "The plan carries little risk.", "negative": "The plan is not safe."}
+{"item_id": 62, "kind": "grad", "type": "T2_ant", "anchor": "The plan is safe.", "positive": "The plan carries little risk.", "negative": "The plan is risky."}
+{"item_id": 63, "kind": "grad", "type": "T1_neg", "anchor": "The fish was fresh.", "positive": "The fish had just been caught.", "negative": "The fish was not fresh."}
+{"item_id": 63, "kind": "grad", "type": "T2_ant", "anchor": "The fish was fresh.", "positive": "The fish had just been caught.", "negative": "The fish was rotten."}

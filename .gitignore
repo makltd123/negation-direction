@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+cache/
+
+# предложения STS-B (своя лицензия) — пересобираются s01_build_data.py
+data/natural_*.jsonl

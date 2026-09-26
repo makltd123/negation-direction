@@ -1,0 +1,12 @@
+model,lang,H1,H2,H2_not_sentiment,H3,H4,H4_lenient
+mpnet,en,да,частично,False,да,да,да
+bge,en,да,частично,False,да,да,да
+e5,en,да,частично,False,да,да,да
+me5,en,да,частично,False,да,да,да
+mminilm,en,да,частично,False,да,да,да
+bgem3,en,да,частично,False,да,нет,нет
+me5,ru,да,частично,False,да,частично (T1 ценой T3/T4),да
+mminilm,ru,да,частично,False,да,да,да
+bgem3,ru,да,частично,False,да,да,да
+rubert,ru,да,да,False,частично,да,да
+user,ru,да,частично,False,да,частично (T1 ценой T3/T4),да

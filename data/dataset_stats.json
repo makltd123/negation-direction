@@ -1,0 +1,128 @@
+{
+ "en": {
+  "n_bases": 48,
+  "n_pairs": 240,
+  "valence": {
+   "pos": 26,
+   "neg": 12,
+   "neu": 10
+  },
+  "construction": {
+   "copula": 26,
+   "do-support": 17,
+   "modal/perfect": 5
+  },
+  "topics": {
+   "weather": 6,
+   "food": 6,
+   "work": 6,
+   "people": 6,
+   "science": 6,
+   "news": 6,
+   "travel": 6,
+   "tech": 6
+  },
+  "edit_adverbs": {
+   "certainly": 45,
+   "also": 42,
+   "really": 38,
+   "still": 43,
+   "clearly": 41,
+   "truly": 31
+  },
+  "n_topic_sents": 96,
+  "n_h4_items": 64,
+  "h4_items_by_kind": {
+   "comp": 32,
+   "grad": 32
+  },
+  "h4_triples_by_type": {
+   "T1_neg": 64,
+   "T2_ant": 64,
+   "T3_negpara": 32,
+   "T4_neganchor": 32
+  },
+  "n_natural": 3000,
+  "n_natural_neg": 541,
+  "h4_anchor_content_words": 149,
+  "h4_words_seen_in_extraction": 18,
+  "h4_words_seen_in_extraction_list": [
+   "cheap",
+   "city",
+   "clean",
+   "dog",
+   "far",
+   "flight",
+   "fresh",
+   "increased",
+   "meeting",
+   "my",
+   "new",
+   "night",
+   "open",
+   "phone",
+   "results",
+   "safe",
+   "soup",
+   "warm"
+  ]
+ },
+ "ru": {
+  "n_bases": 48,
+  "n_pairs": 240,
+  "valence": {
+   "neu": 9,
+   "neg": 10,
+   "pos": 29
+  },
+  "construction": {
+   "copula": 6,
+   "verb": 42
+  },
+  "topics": {
+   "weather": 6,
+   "food": 6,
+   "work": 6,
+   "people": 6,
+   "science": 6,
+   "news": 6,
+   "travel": 6,
+   "tech": 6
+  },
+  "edit_adverbs": {
+   "тоже": 50,
+   "действительно": 33,
+   "правда": 37,
+   "также": 41,
+   "всё-таки": 38,
+   "точно": 41
+  },
+  "n_topic_sents": 96,
+  "n_h4_items": 64,
+  "h4_items_by_kind": {
+   "comp": 32,
+   "grad": 32
+  },
+  "h4_triples_by_type": {
+   "T1_neg": 64,
+   "T2_ant": 64,
+   "T3_negpara": 32,
+   "T4_neganchor": 32
+  },
+  "n_natural": 3000,
+  "n_natural_neg": 591,
+  "h4_anchor_content_words": 167,
+  "h4_words_seen_in_extraction": 9,
+  "h4_words_seen_in_extraction_list": [
+   "вчера",
+   "гостиница",
+   "кофе",
+   "начальник",
+   "оказался",
+   "план",
+   "работает",
+   "сдал",
+   "сосед"
+  ]
+ }
+}

@@ -1,0 +1,192 @@
+{"item_id": 0, "kind": "comp", "type": "T1_neg", "anchor": "Аптека открыта сейчас.", "positive": "Аптека сейчас работает.", "negative": "Аптека не открыта сейчас."}
+{"item_id": 0, "kind": "comp", "type": "T2_ant", "anchor": "Аптека открыта сейчас.", "positive": "Аптека сейчас работает.", "negative": "Аптека закрыта сейчас."}
+{"item_id": 0, "kind": "comp", "type": "T3_negpara", "anchor": "Аптека открыта сейчас.", "positive": "Аптека не закрыта сейчас.", "negative": "Аптека закрыта сейчас."}
+{"item_id": 0, "kind": "comp", "type": "T4_neganchor", "anchor": "Аптека не открыта сейчас.", "positive": "Аптека закрыта сейчас.", "negative": "Аптека открыта сейчас."}
+{"item_id": 1, "kind": "comp", "type": "T1_neg", "anchor": "Раненый солдат выжил.", "positive": "Раненый солдат остался в живых.", "negative": "Раненый солдат не выжил."}
+{"item_id": 1, "kind": "comp", "type": "T2_ant", "anchor": "Раненый солдат выжил.", "positive": "Раненый солдат остался в живых.", "negative": "Раненый солдат погиб."}
+{"item_id": 1, "kind": "comp", "type": "T3_negpara", "anchor": "Раненый солдат выжил.", "positive": "Раненый солдат не погиб.", "negative": "Раненый солдат погиб."}
+{"item_id": 1, "kind": "comp", "type": "T4_neganchor", "anchor": "Раненый солдат не выжил.", "positive": "Раненый солдат погиб.", "negative": "Раненый солдат выжил."}
+{"item_id": 2, "kind": "comp", "type": "T1_neg", "anchor": "Слух оказался правдой.", "positive": "Молва подтвердилась.", "negative": "Слух не оказался правдой."}
+{"item_id": 2, "kind": "comp", "type": "T2_ant", "anchor": "Слух оказался правдой.", "positive": "Молва подтвердилась.", "negative": "Слух оказался ложью."}
+{"item_id": 2, "kind": "comp", "type": "T3_negpara", "anchor": "Слух оказался правдой.", "positive": "Слух не оказался ложью.", "negative": "Слух оказался ложью."}
+{"item_id": 2, "kind": "comp", "type": "T4_neganchor", "anchor": "Слух не оказался правдой.", "positive": "Слух оказался ложью.", "negative": "Слух оказался правдой."}
+{"item_id": 3, "kind": "comp", "type": "T1_neg", "anchor": "Место у окна занято.", "positive": "У окна кто-то сидит.", "negative": "Место у окна не занято."}
+{"item_id": 3, "kind": "comp", "type": "T2_ant", "anchor": "Место у окна занято.", "positive": "У окна кто-то сидит.", "negative": "Место у окна свободно."}
+{"item_id": 3, "kind": "comp", "type": "T3_negpara", "anchor": "Место у окна занято.", "positive": "Место у окна не свободно.", "negative": "Место у окна свободно."}
+{"item_id": 3, "kind": "comp", "type": "T4_neganchor", "anchor": "Место у окна не занято.", "positive": "Место у окна свободно.", "negative": "Место у окна занято."}
+{"item_id": 4, "kind": "comp", "type": "T1_neg", "anchor": "Свет в коридоре горел.", "positive": "В коридоре было включено освещение.", "negative": "Свет в коридоре не горел."}
+{"item_id": 4, "kind": "comp", "type": "T2_ant", "anchor": "Свет в коридоре горел.", "positive": "В коридоре было включено освещение.", "negative": "Свет в коридоре был выключен."}
+{"item_id": 4, "kind": "comp", "type": "T3_negpara", "anchor": "Свет в коридоре горел.", "positive": "Свет в коридоре не был выключен.", "negative": "Свет в коридоре был выключен."}
+{"item_id": 4, "kind": "comp", "type": "T4_neganchor", "anchor": "Свет в коридоре не горел.", "positive": "Свет в коридоре был выключен.", "negative": "Свет в коридоре горел."}
+{"item_id": 5, "kind": "comp", "type": "T1_neg", "anchor": "Ученик присутствовал на уроке.", "positive": "Ученик был на занятии.", "negative": "Ученик не присутствовал на уроке."}
+{"item_id": 5, "kind": "comp", "type": "T2_ant", "anchor": "Ученик присутствовал на уроке.", "positive": "Ученик был на занятии.", "negative": "Ученик отсутствовал на уроке."}
+{"item_id": 5, "kind": "comp", "type": "T3_negpara", "anchor": "Ученик присутствовал на уроке.", "positive": "Ученик не отсутствовал на уроке.", "negative": "Ученик отсутствовал на уроке."}
+{"item_id": 5, "kind": "comp", "type": "T4_neganchor", "anchor": "Ученик не присутствовал на уроке.", "positive": "Ученик отсутствовал на уроке.", "negative": "Ученик присутствовал на уроке."}
+{"item_id": 6, "kind": "comp", "type": "T1_neg", "anchor": "Подписи на документах совпадают.", "positive": "Подписи на документах одинаковые.", "negative": "Подписи на документах не совпадают."}
+{"item_id": 6, "kind": "comp", "type": "T2_ant", "anchor": "Подписи на документах совпадают.", "positive": "Подписи на документах одинаковые.", "negative": "Подписи на документах различаются."}
+{"item_id": 6, "kind": "comp", "type": "T3_negpara", "anchor": "Подписи на документах совпадают.", "positive": "Подписи на документах не различаются.", "negative": "Подписи на документах различаются."}
+{"item_id": 6, "kind": "comp", "type": "T4_neganchor", "anchor": "Подписи на документах не совпадают.", "positive": "Подписи на документах различаются.", "negative": "Подписи на документах совпадают."}
+{"item_id": 7, "kind": "comp", "type": "T1_neg", "anchor": "Малыш спит.", "positive": "Ребёнок дремлет.", "negative": "Малыш не спит."}
+{"item_id": 7, "kind": "comp", "type": "T2_ant", "anchor": "Малыш спит.", "positive": "Ребёнок дремлет.", "negative": "Малыш бодрствует."}
+{"item_id": 7, "kind": "comp", "type": "T3_negpara", "anchor": "Малыш спит.", "positive": "Малыш не бодрствует.", "negative": "Малыш бодрствует."}
+{"item_id": 7, "kind": "comp", "type": "T4_neganchor", "anchor": "Малыш не спит.", "positive": "Малыш бодрствует.", "negative": "Малыш спит."}
+{"item_id": 8, "kind": "comp", "type": "T1_neg", "anchor": "Ответ был верным.", "positive": "Ответ был правильным.", "negative": "Ответ не был верным."}
+{"item_id": 8, "kind": "comp", "type": "T2_ant", "anchor": "Ответ был верным.", "positive": "Ответ был правильным.", "negative": "Ответ был ошибочным."}
+{"item_id": 8, "kind": "comp", "type": "T3_negpara", "anchor": "Ответ был верным.", "positive": "Ответ не был ошибочным.", "negative": "Ответ был ошибочным."}
+{"item_id": 8, "kind": "comp", "type": "T4_neganchor", "anchor": "Ответ не был верным.", "positive": "Ответ был ошибочным.", "negative": "Ответ был верным."}
+{"item_id": 9, "kind": "comp", "type": "T1_neg", "anchor": "Обвиняемого осудили.", "positive": "Обвиняемому вынесли обвинительный приговор.", "negative": "Обвиняемого не осудили."}
+{"item_id": 9, "kind": "comp", "type": "T2_ant", "anchor": "Обвиняемого осудили.", "positive": "Обвиняемому вынесли обвинительный приговор.", "negative": "Обвиняемого оправдали."}
+{"item_id": 9, "kind": "comp", "type": "T3_negpara", "anchor": "Обвиняемого осудили.", "positive": "Обвиняемого не оправдали.", "negative": "Обвиняемого оправдали."}
+{"item_id": 9, "kind": "comp", "type": "T4_neganchor", "anchor": "Обвиняемого не осудили.", "positive": "Обвиняемого оправдали.", "negative": "Обвиняемого осудили."}
+{"item_id": 10, "kind": "comp", "type": "T1_neg", "anchor": "Двигатель работает.", "positive": "Мотор запущен.", "negative": "Двигатель не работает."}
+{"item_id": 10, "kind": "comp", "type": "T2_ant", "anchor": "Двигатель работает.", "positive": "Мотор запущен.", "negative": "Двигатель заглушен."}
+{"item_id": 10, "kind": "comp", "type": "T3_negpara", "anchor": "Двигатель работает.", "positive": "Двигатель не заглушен.", "negative": "Двигатель заглушен."}
+{"item_id": 10, "kind": "comp", "type": "T4_neganchor", "anchor": "Двигатель не работает.", "positive": "Двигатель заглушен.", "negative": "Двигатель работает."}
+{"item_id": 11, "kind": "comp", "type": "T1_neg", "anchor": "Пляж является частным.", "positive": "Пляж принадлежит частному владельцу.", "negative": "Пляж не является частным."}
+{"item_id": 11, "kind": "comp", "type": "T2_ant", "anchor": "Пляж является частным.", "positive": "Пляж принадлежит частному владельцу.", "negative": "Пляж является общественным."}
+{"item_id": 11, "kind": "comp", "type": "T3_negpara", "anchor": "Пляж является частным.", "positive": "Пляж не является общественным.", "negative": "Пляж является общественным."}
+{"item_id": 11, "kind": "comp", "type": "T4_neganchor", "anchor": "Пляж не является частным.", "positive": "Пляж является общественным.", "negative": "Пляж является частным."}
+{"item_id": 12, "kind": "comp", "type": "T1_neg", "anchor": "Тест дал положительный результат.", "positive": "Анализ оказался положительным.", "negative": "Тест не дал положительный результат."}
+{"item_id": 12, "kind": "comp", "type": "T2_ant", "anchor": "Тест дал положительный результат.", "positive": "Анализ оказался положительным.", "negative": "Тест дал отрицательный результат."}
+{"item_id": 12, "kind": "comp", "type": "T3_negpara", "anchor": "Тест дал положительный результат.", "positive": "Тест не дал отрицательный результат.", "negative": "Тест дал отрицательный результат."}
+{"item_id": 12, "kind": "comp", "type": "T4_neganchor", "anchor": "Тест не дал положительный результат.", "positive": "Тест дал отрицательный результат.", "negative": "Тест дал положительный результат."}
+{"item_id": 13, "kind": "comp", "type": "T1_neg", "anchor": "Окно было закрыто.", "positive": "Окно было затворено.", "negative": "Окно не было закрыто."}
+{"item_id": 13, "kind": "comp", "type": "T2_ant", "anchor": "Окно было закрыто.", "positive": "Окно было затворено.", "negative": "Окно было открыто."}
+{"item_id": 13, "kind": "comp", "type": "T3_negpara", "anchor": "Окно было закрыто.", "positive": "Окно не было открыто.", "negative": "Окно было открыто."}
+{"item_id": 13, "kind": "comp", "type": "T4_neganchor", "anchor": "Окно не было закрыто.", "positive": "Окно было открыто.", "negative": "Окно было закрыто."}
+{"item_id": 14, "kind": "comp", "type": "T1_neg", "anchor": "Собрание является обязательным.", "positive": "Все обязаны прийти на собрание.", "negative": "Собрание не является обязательным."}
+{"item_id": 14, "kind": "comp", "type": "T2_ant", "anchor": "Собрание является обязательным.", "positive": "Все обязаны прийти на собрание.", "negative": "Собрание является добровольным."}
+{"item_id": 14, "kind": "comp", "type": "T3_negpara", "anchor": "Собрание является обязательным.", "positive": "Собрание не является добровольным.", "negative": "Собрание является добровольным."}
+{"item_id": 14, "kind": "comp", "type": "T4_neganchor", "anchor": "Собрание не является обязательным.", "positive": "Собрание является добровольным.", "negative": "Собрание является обязательным."}
+{"item_id": 15, "kind": "comp", "type": "T1_neg", "anchor": "Пропуск действует.", "positive": "Пропуском ещё можно пользоваться.", "negative": "Пропуск не действует."}
+{"item_id": 15, "kind": "comp", "type": "T2_ant", "anchor": "Пропуск действует.", "positive": "Пропуском ещё можно пользоваться.", "negative": "Пропуск истёк."}
+{"item_id": 15, "kind": "comp", "type": "T3_negpara", "anchor": "Пропуск действует.", "positive": "Пропуск не истёк.", "negative": "Пропуск истёк."}
+{"item_id": 15, "kind": "comp", "type": "T4_neganchor", "anchor": "Пропуск не действует.", "positive": "Пропуск истёк.", "negative": "Пропуск действует."}
+{"item_id": 16, "kind": "comp", "type": "T1_neg", "anchor": "Рейс летит внутри страны.", "positive": "Это внутренний перелёт.", "negative": "Рейс не летит внутри страны."}
+{"item_id": 16, "kind": "comp", "type": "T2_ant", "anchor": "Рейс летит внутри страны.", "positive": "Это внутренний перелёт.", "negative": "Рейс летит за границу."}
+{"item_id": 16, "kind": "comp", "type": "T3_negpara", "anchor": "Рейс летит внутри страны.", "positive": "Рейс не летит за границу.", "negative": "Рейс летит за границу."}
+{"item_id": 16, "kind": "comp", "type": "T4_neganchor", "anchor": "Рейс не летит внутри страны.", "positive": "Рейс летит за границу.", "negative": "Рейс летит внутри страны."}
+{"item_id": 17, "kind": "comp", "type": "T1_neg", "anchor": "Файл виден всем.", "positive": "Любой может увидеть файл.", "negative": "Файл не виден всем."}
+{"item_id": 17, "kind": "comp", "type": "T2_ant", "anchor": "Файл виден всем.", "positive": "Любой может увидеть файл.", "negative": "Файл скрыт от всех."}
+{"item_id": 17, "kind": "comp", "type": "T3_negpara", "anchor": "Файл виден всем.", "positive": "Файл не скрыт от всех.", "negative": "Файл скрыт от всех."}
+{"item_id": 17, "kind": "comp", "type": "T4_neganchor", "anchor": "Файл не виден всем.", "positive": "Файл скрыт от всех.", "negative": "Файл виден всем."}
+{"item_id": 18, "kind": "comp", "type": "T1_neg", "anchor": "Кандидат сдал тест.", "positive": "Кандидат успешно прошёл испытание.", "negative": "Кандидат не сдал тест."}
+{"item_id": 18, "kind": "comp", "type": "T2_ant", "anchor": "Кандидат сдал тест.", "positive": "Кандидат успешно прошёл испытание.", "negative": "Кандидат провалил тест."}
+{"item_id": 18, "kind": "comp", "type": "T3_negpara", "anchor": "Кандидат сдал тест.", "positive": "Кандидат не провалил тест.", "negative": "Кандидат провалил тест."}
+{"item_id": 18, "kind": "comp", "type": "T4_neganchor", "anchor": "Кандидат не сдал тест.", "positive": "Кандидат провалил тест.", "negative": "Кандидат сдал тест."}
+{"item_id": 19, "kind": "comp", "type": "T1_neg", "anchor": "Услуга предоставляется бесплатно.", "positive": "Пользоваться услугой можно даром.", "negative": "Услуга не предоставляется бесплатно."}
+{"item_id": 19, "kind": "comp", "type": "T2_ant", "anchor": "Услуга предоставляется бесплатно.", "positive": "Пользоваться услугой можно даром.", "negative": "Услуга предоставляется за деньги."}
+{"item_id": 19, "kind": "comp", "type": "T3_negpara", "anchor": "Услуга предоставляется бесплатно.", "positive": "Услуга не предоставляется за деньги.", "negative": "Услуга предоставляется за деньги."}
+{"item_id": 19, "kind": "comp", "type": "T4_neganchor", "anchor": "Услуга не предоставляется бесплатно.", "positive": "Услуга предоставляется за деньги.", "negative": "Услуга предоставляется бесплатно."}
+{"item_id": 20, "kind": "comp", "type": "T1_neg", "anchor": "Концерт пройдёт в помещении.", "positive": "Концерт состоится в зале.", "negative": "Концерт не пройдёт в помещении."}
+{"item_id": 20, "kind": "comp", "type": "T2_ant", "anchor": "Концерт пройдёт в помещении.", "positive": "Концерт состоится в зале.", "negative": "Концерт пройдёт под открытым небом."}
+{"item_id": 20, "kind": "comp", "type": "T3_negpara", "anchor": "Концерт пройдёт в помещении.", "positive": "Концерт не пройдёт под открытым небом.", "negative": "Концерт пройдёт под открытым небом."}
+{"item_id": 20, "kind": "comp", "type": "T4_neganchor", "anchor": "Концерт не пройдёт в помещении.", "positive": "Концерт пройдёт под открытым небом.", "negative": "Концерт пройдёт в помещении."}
+{"item_id": 21, "kind": "comp", "type": "T1_neg", "anchor": "Товар имеется на складе.", "positive": "Товар можно купить прямо сейчас.", "negative": "Товар не имеется на складе."}
+{"item_id": 21, "kind": "comp", "type": "T2_ant", "anchor": "Товар имеется на складе.", "positive": "Товар можно купить прямо сейчас.", "negative": "Товар закончился на складе."}
+{"item_id": 21, "kind": "comp", "type": "T3_negpara", "anchor": "Товар имеется на складе.", "positive": "Товар не закончился на складе.", "negative": "Товар закончился на складе."}
+{"item_id": 21, "kind": "comp", "type": "T4_neganchor", "anchor": "Товар не имеется на складе.", "positive": "Товар закончился на складе.", "negative": "Товар имеется на складе."}
+{"item_id": 22, "kind": "comp", "type": "T1_neg", "anchor": "Операция удалась.", "positive": "Операция прошла успешно.", "negative": "Операция не удалась."}
+{"item_id": 22, "kind": "comp", "type": "T2_ant", "anchor": "Операция удалась.", "positive": "Операция прошла успешно.", "negative": "Операция провалилась."}
+{"item_id": 22, "kind": "comp", "type": "T3_negpara", "anchor": "Операция удалась.", "positive": "Операция не провалилась.", "negative": "Операция провалилась."}
+{"item_id": 22, "kind": "comp", "type": "T4_neganchor", "anchor": "Операция не удалась.", "positive": "Операция провалилась.", "negative": "Операция удалась."}
+{"item_id": 23, "kind": "comp", "type": "T1_neg", "anchor": "Монета упала орлом.", "positive": "Выпал орёл.", "negative": "Монета не упала орлом."}
+{"item_id": 23, "kind": "comp", "type": "T2_ant", "anchor": "Монета упала орлом.", "positive": "Выпал орёл.", "negative": "Монета упала решкой."}
+{"item_id": 23, "kind": "comp", "type": "T3_negpara", "anchor": "Монета упала орлом.", "positive": "Монета не упала решкой.", "negative": "Монета упала решкой."}
+{"item_id": 23, "kind": "comp", "type": "T4_neganchor", "anchor": "Монета не упала орлом.", "positive": "Монета упала решкой.", "negative": "Монета упала орлом."}
+{"item_id": 24, "kind": "comp", "type": "T1_neg", "anchor": "Рубильник включён.", "positive": "Рубильник находится во включённом положении.", "negative": "Рубильник не включён."}
+{"item_id": 24, "kind": "comp", "type": "T2_ant", "anchor": "Рубильник включён.", "positive": "Рубильник находится во включённом положении.", "negative": "Рубильник выключен."}
+{"item_id": 24, "kind": "comp", "type": "T3_negpara", "anchor": "Рубильник включён.", "positive": "Рубильник не выключен.", "negative": "Рубильник выключен."}
+{"item_id": 24, "kind": "comp", "type": "T4_neganchor", "anchor": "Рубильник не включён.", "positive": "Рубильник выключен.", "negative": "Рубильник включён."}
+{"item_id": 25, "kind": "comp", "type": "T1_neg", "anchor": "Пробы были заражены.", "positive": "В образцах нашли загрязнение.", "negative": "Пробы не были заражены."}
+{"item_id": 25, "kind": "comp", "type": "T2_ant", "anchor": "Пробы были заражены.", "positive": "В образцах нашли загрязнение.", "negative": "Пробы были чистыми."}
+{"item_id": 25, "kind": "comp", "type": "T3_negpara", "anchor": "Пробы были заражены.", "positive": "Пробы не были чистыми.", "negative": "Пробы были чистыми."}
+{"item_id": 25, "kind": "comp", "type": "T4_neganchor", "anchor": "Пробы не были заражены.", "positive": "Пробы были чистыми.", "negative": "Пробы были заражены."}
+{"item_id": 26, "kind": "comp", "type": "T1_neg", "anchor": "Линия занята.", "positive": "Абонент сейчас разговаривает.", "negative": "Линия не занята."}
+{"item_id": 26, "kind": "comp", "type": "T2_ant", "anchor": "Линия занята.", "positive": "Абонент сейчас разговаривает.", "negative": "Линия свободна."}
+{"item_id": 26, "kind": "comp", "type": "T3_negpara", "anchor": "Линия занята.", "positive": "Линия не свободна.", "negative": "Линия свободна."}
+{"item_id": 26, "kind": "comp", "type": "T4_neganchor", "anchor": "Линия не занята.", "positive": "Линия свободна.", "negative": "Линия занята."}
+{"item_id": 27, "kind": "comp", "type": "T1_neg", "anchor": "Машина была с пробегом.", "positive": "Автомобилем уже пользовались раньше.", "negative": "Машина не была с пробегом."}
+{"item_id": 27, "kind": "comp", "type": "T2_ant", "anchor": "Машина была с пробегом.", "positive": "Автомобилем уже пользовались раньше.", "negative": "Машина была новой."}
+{"item_id": 27, "kind": "comp", "type": "T3_negpara", "anchor": "Машина была с пробегом.", "positive": "Машина не была новой.", "negative": "Машина была новой."}
+{"item_id": 27, "kind": "comp", "type": "T4_neganchor", "anchor": "Машина не была с пробегом.", "positive": "Машина была новой.", "negative": "Машина была с пробегом."}
+{"item_id": 28, "kind": "comp", "type": "T1_neg", "anchor": "Картина является подлинником.", "positive": "Это оригинальное полотно.", "negative": "Картина не является подлинником."}
+{"item_id": 28, "kind": "comp", "type": "T2_ant", "anchor": "Картина является подлинником.", "positive": "Это оригинальное полотно.", "negative": "Картина является подделкой."}
+{"item_id": 28, "kind": "comp", "type": "T3_negpara", "anchor": "Картина является подлинником.", "positive": "Картина не является подделкой.", "negative": "Картина является подделкой."}
+{"item_id": 28, "kind": "comp", "type": "T4_neganchor", "anchor": "Картина не является подлинником.", "positive": "Картина является подделкой.", "negative": "Картина является подлинником."}
+{"item_id": 29, "kind": "comp", "type": "T1_neg", "anchor": "Заявитель состоит в браке.", "positive": "Заявитель женат.", "negative": "Заявитель не состоит в браке."}
+{"item_id": 29, "kind": "comp", "type": "T2_ant", "anchor": "Заявитель состоит в браке.", "positive": "Заявитель женат.", "negative": "Заявитель холост."}
+{"item_id": 29, "kind": "comp", "type": "T3_negpara", "anchor": "Заявитель состоит в браке.", "positive": "Заявитель не холост.", "negative": "Заявитель холост."}
+{"item_id": 29, "kind": "comp", "type": "T4_neganchor", "anchor": "Заявитель не состоит в браке.", "positive": "Заявитель холост.", "negative": "Заявитель состоит в браке."}
+{"item_id": 30, "kind": "comp", "type": "T1_neg", "anchor": "Дверь заперта.", "positive": "Дверь закрыта на ключ.", "negative": "Дверь не заперта."}
+{"item_id": 30, "kind": "comp", "type": "T2_ant", "anchor": "Дверь заперта.", "positive": "Дверь закрыта на ключ.", "negative": "Дверь отперта."}
+{"item_id": 30, "kind": "comp", "type": "T3_negpara", "anchor": "Дверь заперта.", "positive": "Дверь не отперта.", "negative": "Дверь отперта."}
+{"item_id": 30, "kind": "comp", "type": "T4_neganchor", "anchor": "Дверь не заперта.", "positive": "Дверь отперта.", "negative": "Дверь заперта."}
+{"item_id": 31, "kind": "comp", "type": "T1_neg", "anchor": "Результаты являются окончательными.", "positive": "Итоги уже утверждены.", "negative": "Результаты не являются окончательными."}
+{"item_id": 31, "kind": "comp", "type": "T2_ant", "anchor": "Результаты являются окончательными.", "positive": "Итоги уже утверждены.", "negative": "Результаты являются предварительными."}
+{"item_id": 31, "kind": "comp", "type": "T3_negpara", "anchor": "Результаты являются окончательными.", "positive": "Результаты не являются предварительными.", "negative": "Результаты являются предварительными."}
+{"item_id": 31, "kind": "comp", "type": "T4_neganchor", "anchor": "Результаты не являются окончательными.", "positive": "Результаты являются предварительными.", "negative": "Результаты являются окончательными."}
+{"item_id": 32, "kind": "grad", "type": "T1_neg", "anchor": "Чай был горячим.", "positive": "Чай обжигал губы.", "negative": "Чай не был горячим."}
+{"item_id": 32, "kind": "grad", "type": "T2_ant", "anchor": "Чай был горячим.", "positive": "Чай обжигал губы.", "negative": "Чай был холодным."}
+{"item_id": 33, "kind": "grad", "type": "T1_neg", "anchor": "Фильм оказался захватывающим.", "positive": "Кино держало в напряжении.", "negative": "Фильм не оказался захватывающим."}
+{"item_id": 33, "kind": "grad", "type": "T2_ant", "anchor": "Фильм оказался захватывающим.", "positive": "Кино держало в напряжении.", "negative": "Фильм оказался скучным."}
+{"item_id": 34, "kind": "grad", "type": "T1_neg", "anchor": "Контрольная была лёгкой.", "positive": "Проверочная работа была простой.", "negative": "Контрольная не была лёгкой."}
+{"item_id": 34, "kind": "grad", "type": "T2_ant", "anchor": "Контрольная была лёгкой.", "positive": "Проверочная работа была простой.", "negative": "Контрольная была трудной."}
+{"item_id": 35, "kind": "grad", "type": "T1_neg", "anchor": "Гостиница стоит дёшево.", "positive": "Проживание в гостинице стоит копейки.", "negative": "Гостиница не стоит дёшево."}
+{"item_id": 35, "kind": "grad", "type": "T2_ant", "anchor": "Гостиница стоит дёшево.", "positive": "Проживание в гостинице стоит копейки.", "negative": "Гостиница стоит дорого."}
+{"item_id": 36, "kind": "grad", "type": "T1_neg", "anchor": "Во дворе было тихо ночью.", "positive": "Ночью во дворе стояла тишина.", "negative": "Во дворе не было тихо ночью."}
+{"item_id": 36, "kind": "grad", "type": "T2_ant", "anchor": "Во дворе было тихо ночью.", "positive": "Ночью во дворе стояла тишина.", "negative": "Во дворе было шумно ночью."}
+{"item_id": 37, "kind": "grad", "type": "T1_neg", "anchor": "Лекция длилась долго.", "positive": "Лекция тянулась несколько часов.", "negative": "Лекция не длилась долго."}
+{"item_id": 37, "kind": "grad", "type": "T2_ant", "anchor": "Лекция длилась долго.", "positive": "Лекция тянулась несколько часов.", "negative": "Лекция закончилась быстро."}
+{"item_id": 38, "kind": "grad", "type": "T1_neg", "anchor": "Сосед был богатым.", "positive": "У соседа было много денег.", "negative": "Сосед не был богатым."}
+{"item_id": 38, "kind": "grad", "type": "T2_ant", "anchor": "Сосед был богатым.", "positive": "У соседа было много денег.", "negative": "Сосед был бедным."}
+{"item_id": 39, "kind": "grad", "type": "T1_neg", "anchor": "Озеро было глубоким.", "positive": "Глубина озера была большой.", "negative": "Озеро не было глубоким."}
+{"item_id": 39, "kind": "grad", "type": "T2_ant", "anchor": "Озеро было глубоким.", "positive": "Глубина озера была большой.", "negative": "Озеро было мелким."}
+{"item_id": 40, "kind": "grad", "type": "T1_neg", "anchor": "Тренер был строгим.", "positive": "Наставник был требовательным.", "negative": "Тренер не был строгим."}
+{"item_id": 40, "kind": "grad", "type": "T2_ant", "anchor": "Тренер был строгим.", "positive": "Наставник был требовательным.", "negative": "Тренер был мягким."}
+{"item_id": 41, "kind": "grad", "type": "T1_neg", "anchor": "Певица любит джаз.", "positive": "Вокалистка обожает джаз.", "negative": "Певица не любит джаз."}
+{"item_id": 41, "kind": "grad", "type": "T2_ant", "anchor": "Певица любит джаз.", "positive": "Вокалистка обожает джаз.", "negative": "Певица презирает джаз."}
+{"item_id": 42, "kind": "grad", "type": "T1_neg", "anchor": "Фирма получила прибыль.", "positive": "Компания заработала деньги.", "negative": "Фирма не получила прибыль."}
+{"item_id": 42, "kind": "grad", "type": "T2_ant", "anchor": "Фирма получила прибыль.", "positive": "Компания заработала деньги.", "negative": "Фирма понесла убытки."}
+{"item_id": 43, "kind": "grad", "type": "T1_neg", "anchor": "Золото подорожало вчера.", "positive": "Вчера цена золота выросла.", "negative": "Золото не подорожало вчера."}
+{"item_id": 43, "kind": "grad", "type": "T2_ant", "anchor": "Золото подорожало вчера.", "positive": "Вчера цена золота выросла.", "negative": "Золото подешевело вчера."}
+{"item_id": 44, "kind": "grad", "type": "T1_neg", "anchor": "На кухне был порядок.", "positive": "Кухня была прибрана.", "negative": "На кухне не был порядок."}
+{"item_id": 44, "kind": "grad", "type": "T2_ant", "anchor": "На кухне был порядок.", "positive": "Кухня была прибрана.", "negative": "На кухне был бардак."}
+{"item_id": 45, "kind": "grad", "type": "T1_neg", "anchor": "Сумка была тяжёлой.", "positive": "Сумка весила много.", "negative": "Сумка не была тяжёлой."}
+{"item_id": 45, "kind": "grad", "type": "T2_ant", "anchor": "Сумка была тяжёлой.", "positive": "Сумка весила много.", "negative": "Сумка была лёгкой."}
+{"item_id": 46, "kind": "grad", "type": "T1_neg", "anchor": "Официант был приветлив.", "positive": "Официант встретил нас радушно.", "negative": "Официант не был приветлив."}
+{"item_id": 46, "kind": "grad", "type": "T2_ant", "anchor": "Официант был приветлив.", "positive": "Официант встретил нас радушно.", "negative": "Официант был груб."}
+{"item_id": 47, "kind": "grad", "type": "T1_neg", "anchor": "Кофе был крепким.", "positive": "Кофе получился насыщенным.", "negative": "Кофе не был крепким."}
+{"item_id": 47, "kind": "grad", "type": "T2_ant", "anchor": "Кофе был крепким.", "positive": "Кофе получился насыщенным.", "negative": "Кофе был слабым."}
+{"item_id": 48, "kind": "grad", "type": "T1_neg", "anchor": "Деревня находится далеко от города.", "positive": "От деревни до города долгий путь.", "negative": "Деревня не находится далеко от города."}
+{"item_id": 48, "kind": "grad", "type": "T2_ant", "anchor": "Деревня находится далеко от города.", "positive": "От деревни до города долгий путь.", "negative": "Деревня находится рядом с городом."}
+{"item_id": 49, "kind": "grad", "type": "T1_neg", "anchor": "Зал аплодировал оратору.", "positive": "Слушатели хлопали выступающему.", "negative": "Зал не аплодировал оратору."}
+{"item_id": 49, "kind": "grad", "type": "T2_ant", "anchor": "Зал аплодировал оратору.", "positive": "Слушатели хлопали выступающему.", "negative": "Зал освистал оратора."}
+{"item_id": 50, "kind": "grad", "type": "T1_neg", "anchor": "Врач похвалил медсестру.", "positive": "Доктор отметил работу медсестры добрым словом.", "negative": "Врач не похвалил медсестру."}
+{"item_id": 50, "kind": "grad", "type": "T2_ant", "anchor": "Врач похвалил медсестру.", "positive": "Доктор отметил работу медсестры добрым словом.", "negative": "Врач отругал медсестру."}
+{"item_id": 51, "kind": "grad", "type": "T1_neg", "anchor": "Собака ведёт себя агрессивно.", "positive": "Пёс кидается на людей.", "negative": "Собака не ведёт себя агрессивно."}
+{"item_id": 51, "kind": "grad", "type": "T2_ant", "anchor": "Собака ведёт себя агрессивно.", "positive": "Пёс кидается на людей.", "negative": "Собака ведёт себя спокойно."}
+{"item_id": 52, "kind": "grad", "type": "T1_neg", "anchor": "Продажи выросли в марте.", "positive": "В марте выручка увеличилась.", "negative": "Продажи не выросли в марте."}
+{"item_id": 52, "kind": "grad", "type": "T2_ant", "anchor": "Продажи выросли в марте.", "positive": "В марте выручка увеличилась.", "negative": "Продажи упали в марте."}
+{"item_id": 53, "kind": "grad", "type": "T1_neg", "anchor": "Нож был острым.", "positive": "Лезвие резало легко.", "negative": "Нож не был острым."}
+{"item_id": 53, "kind": "grad", "type": "T2_ant", "anchor": "Нож был острым.", "positive": "Лезвие резало легко.", "negative": "Нож был тупым."}
+{"item_id": 54, "kind": "grad", "type": "T1_neg", "anchor": "Вечер выдался тёплым.", "positive": "Вечером было по-летнему тепло.", "negative": "Вечер не выдался тёплым."}
+{"item_id": 54, "kind": "grad", "type": "T2_ant", "anchor": "Вечер выдался тёплым.", "positive": "Вечером было по-летнему тепло.", "negative": "Вечер выдался холодным."}
+{"item_id": 55, "kind": "grad", "type": "T1_neg", "anchor": "Сборная выглядела сильной.", "positive": "Национальная команда смотрелась мощно.", "negative": "Сборная не выглядела сильной."}
+{"item_id": 55, "kind": "grad", "type": "T2_ant", "anchor": "Сборная выглядела сильной.", "positive": "Национальная команда смотрелась мощно.", "negative": "Сборная выглядела слабой."}
+{"item_id": 56, "kind": "grad", "type": "T1_neg", "anchor": "Связь работала быстро.", "positive": "Интернет летал.", "negative": "Связь не работала быстро."}
+{"item_id": 56, "kind": "grad", "type": "T2_ant", "anchor": "Связь работала быстро.", "positive": "Интернет летал.", "negative": "Связь работала медленно."}
+{"item_id": 57, "kind": "grad", "type": "T1_neg", "anchor": "Пейзаж был красивым.", "positive": "Вид открывался чудесный.", "negative": "Пейзаж не был красивым."}
+{"item_id": 57, "kind": "grad", "type": "T2_ant", "anchor": "Пейзаж был красивым.", "positive": "Вид открывался чудесный.", "negative": "Пейзаж был унылым."}
+{"item_id": 58, "kind": "grad", "type": "T1_neg", "anchor": "Дедушка принял приглашение.", "positive": "Дедушка согласился прийти.", "negative": "Дедушка не принял приглашение."}
+{"item_id": 58, "kind": "grad", "type": "T2_ant", "anchor": "Дедушка принял приглашение.", "positive": "Дедушка согласился прийти.", "negative": "Дедушка отклонил приглашение."}
+{"item_id": 59, "kind": "grad", "type": "T1_neg", "anchor": "Рубашка была чистой.", "positive": "Рубашку только что постирали.", "negative": "Рубашка не была чистой."}
+{"item_id": 59, "kind": "grad", "type": "T2_ant", "anchor": "Рубашка была чистой.", "positive": "Рубашку только что постирали.", "negative": "Рубашка была грязной."}
+{"item_id": 60, "kind": "grad", "type": "T1_neg", "anchor": "Начальник сохранял спокойствие.", "positive": "Руководитель оставался хладнокровным.", "negative": "Начальник не сохранял спокойствие."}
+{"item_id": 60, "kind": "grad", "type": "T2_ant", "anchor": "Начальник сохранял спокойствие.", "positive": "Руководитель оставался хладнокровным.", "negative": "Начальник пришёл в ярость."}
+{"item_id": 61, "kind": "grad", "type": "T1_neg", "anchor": "Тропа была широкой.", "positive": "Дорожка была просторной.", "negative": "Тропа не была широкой."}
+{"item_id": 61, "kind": "grad", "type": "T2_ant", "anchor": "Тропа была широкой.", "positive": "Дорожка была просторной.", "negative": "Тропа была узкой."}
+{"item_id": 62, "kind": "grad", "type": "T1_neg", "anchor": "План был надёжным.", "positive": "На этот план можно было положиться.", "negative": "План не был надёжным."}
+{"item_id": 62, "kind": "grad", "type": "T2_ant", "anchor": "План был надёжным.", "positive": "На этот план можно было положиться.", "negative": "План был рискованным."}
+{"item_id": 63, "kind": "grad", "type": "T1_neg", "anchor": "Рыба была свежей.", "positive": "Рыбу только что поймали.", "negative": "Рыба не была свежей."}
+{"item_id": 63, "kind": "grad", "type": "T2_ant", "anchor": "Рыба была свежей.", "positive": "Рыбу только что поймали.", "negative": "Рыба была тухлой."}

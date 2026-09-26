@@ -1,0 +1,96 @@
+{"topic": "weather", "text": "A cold front is moving in from the north."}
+{"topic": "weather", "text": "Heavy snow fell across the mountains overnight."}
+{"topic": "weather", "text": "The forecast calls for thunderstorms this afternoon."}
+{"topic": "weather", "text": "Humidity will stay high through the weekend."}
+{"topic": "weather", "text": "Strong winds knocked branches onto the road."}
+{"topic": "weather", "text": "The sky cleared up just before sunset."}
+{"topic": "weather", "text": "Temperatures dropped below freezing last night."}
+{"topic": "weather", "text": "A light drizzle continued until noon."}
+{"topic": "weather", "text": "The heatwave broke records across the region."}
+{"topic": "weather", "text": "Fog covered the valley early in the morning."}
+{"topic": "weather", "text": "The spring rains arrived earlier than usual."}
+{"topic": "weather", "text": "Meteorologists issued a flood warning for the coast."}
+{"topic": "food", "text": "She baked a loaf of sourdough bread."}
+{"topic": "food", "text": "The chef added fresh basil to the tomato sauce."}
+{"topic": "food", "text": "We ordered noodles with grilled chicken."}
+{"topic": "food", "text": "The market sells ripe peaches in summer."}
+{"topic": "food", "text": "He fried two eggs for breakfast."}
+{"topic": "food", "text": "The recipe calls for a cup of brown sugar."}
+{"topic": "food", "text": "They shared a large pepperoni pizza."}
+{"topic": "food", "text": "The cheese was aged for twelve months."}
+{"topic": "food", "text": "Grandma makes dumplings every Sunday."}
+{"topic": "food", "text": "The bakery opens at six in the morning."}
+{"topic": "food", "text": "A bowl of lentil soup costs three dollars."}
+{"topic": "food", "text": "The salad was dressed with olive oil and lemon."}
+{"topic": "work", "text": "The team scheduled a meeting for Thursday."}
+{"topic": "work", "text": "She submitted her quarterly report to the director."}
+{"topic": "work", "text": "Our office moved to the fifth floor."}
+{"topic": "work", "text": "The new intern starts on Monday."}
+{"topic": "work", "text": "He negotiated a raise with his supervisor."}
+{"topic": "work", "text": "The deadline for the proposal is next Friday."}
+{"topic": "work", "text": "The company announced a reorganization of sales."}
+{"topic": "work", "text": "Employees filled out the annual performance review."}
+{"topic": "work", "text": "The manager assigned three new tasks to me."}
+{"topic": "work", "text": "The contract was signed by both departments."}
+{"topic": "work", "text": "She works remotely two days a week."}
+{"topic": "work", "text": "The conference call lasted forty minutes."}
+{"topic": "people", "text": "My sister laughed at the old photographs."}
+{"topic": "people", "text": "He felt nervous before the interview."}
+{"topic": "people", "text": "The friends hugged at the airport."}
+{"topic": "people", "text": "She wrote a heartfelt letter to her grandfather."}
+{"topic": "people", "text": "The boy was excited about his birthday party."}
+{"topic": "people", "text": "They argued about money for an hour."}
+{"topic": "people", "text": "His parents were proud of his graduation."}
+{"topic": "people", "text": "The couple celebrated their tenth anniversary."}
+{"topic": "people", "text": "She cried at the end of the movie."}
+{"topic": "people", "text": "The neighbors invited us over for dinner."}
+{"topic": "people", "text": "He apologized to his colleague for the mistake."}
+{"topic": "people", "text": "The little girl smiled at the puppy."}
+{"topic": "science", "text": "Photosynthesis converts sunlight into chemical energy."}
+{"topic": "science", "text": "The telescope captured images of a distant galaxy."}
+{"topic": "science", "text": "Bees pollinate most of the flowering plants."}
+{"topic": "science", "text": "The researchers sequenced the genome of the virus."}
+{"topic": "science", "text": "Earthquakes occur along tectonic plate boundaries."}
+{"topic": "science", "text": "The chemist measured the acidity of the solution."}
+{"topic": "science", "text": "Whales migrate thousands of kilometers every year."}
+{"topic": "science", "text": "The fossil is about seventy million years old."}
+{"topic": "science", "text": "Oxygen makes up about a fifth of the atmosphere."}
+{"topic": "science", "text": "The lab tested a new type of battery."}
+{"topic": "science", "text": "Salmon swim upstream to lay their eggs."}
+{"topic": "science", "text": "The comet will pass close to the sun in spring."}
+{"topic": "news", "text": "The central bank raised interest rates by half a percent."}
+{"topic": "news", "text": "Parliament debated the new budget on Tuesday."}
+{"topic": "news", "text": "The president met with foreign ministers in Geneva."}
+{"topic": "news", "text": "Stock markets closed higher after the announcement."}
+{"topic": "news", "text": "The city council approved funding for a new park."}
+{"topic": "news", "text": "Inflation reached four percent in August."}
+{"topic": "news", "text": "Voters lined up at polling stations since dawn."}
+{"topic": "news", "text": "The trade agreement was signed by twelve countries."}
+{"topic": "news", "text": "Oil exports grew during the second quarter."}
+{"topic": "news", "text": "The mayor announced plans to expand the subway."}
+{"topic": "news", "text": "Tax revenue increased compared to last year."}
+{"topic": "news", "text": "The minister resigned after the scandal."}
+{"topic": "travel", "text": "Our flight to Lisbon departs at seven."}
+{"topic": "travel", "text": "The ferry crosses the bay every two hours."}
+{"topic": "travel", "text": "We rented a car at the airport."}
+{"topic": "travel", "text": "The hostel is located near the central station."}
+{"topic": "travel", "text": "Passengers boarded the night train to Vienna."}
+{"topic": "travel", "text": "The tour guide showed us the old harbor."}
+{"topic": "travel", "text": "She packed her suitcase the evening before the trip."}
+{"topic": "travel", "text": "The highway was crowded with holiday traffic."}
+{"topic": "travel", "text": "We bought tickets for the cable car."}
+{"topic": "travel", "text": "The cruise ship docked in the port at dawn."}
+{"topic": "travel", "text": "He cycled along the coast for three days."}
+{"topic": "travel", "text": "The taxi driver took a shortcut through the park."}
+{"topic": "tech", "text": "I installed a new router in the living room."}
+{"topic": "tech", "text": "The smartphone has a larger battery this year."}
+{"topic": "tech", "text": "She updated the software on her laptop."}
+{"topic": "tech", "text": "The washing machine finished its cycle."}
+{"topic": "tech", "text": "He connected the speakers to the television."}
+{"topic": "tech", "text": "The vacuum cleaner charges on its dock."}
+{"topic": "tech", "text": "The app sends a reminder every morning."}
+{"topic": "tech", "text": "We replaced the old light bulbs with LEDs."}
+{"topic": "tech", "text": "The printer ran out of ink."}
+{"topic": "tech", "text": "The smart thermostat adjusts the heating automatically."}
+{"topic": "tech", "text": "He backed up his photos to the cloud."}
+{"topic": "tech", "text": "The dishwasher is loaded with plates."}
