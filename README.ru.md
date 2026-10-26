@@ -121,3 +121,7 @@ python s09_summary.py         # сводные таблицы и вердикт�
 ## Лицензия
 
 MIT, см. [LICENSE](LICENSE).
+
+---
+
+Автор: [Федор Маковский](https://fedor.alqira.ru), ИИ-разработчик. Услуги и проекты с цифрами качества: [fedor.alqira.ru](https://fedor.alqira.ru).
